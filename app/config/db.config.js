@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "",
-  DB: "bantendb",
+  HOST: "traz.desacireundeucilograng.web.id",
+  USER: "desacire_amatoxin",
+  PASSWORD: "pvgCHkvSkL8gBMm",
+  DB: "desacire_bantendb",
   dialect: "mysql",
   pool: {
     max: 5,
